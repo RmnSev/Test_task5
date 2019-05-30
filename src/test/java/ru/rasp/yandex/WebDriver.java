@@ -24,6 +24,6 @@ public class WebDriver {
     @After
     public void end() {
         //driver.quit();
-        System.out.println("test close");
+        System.out.println("\n" + "test close");
     }
 }
